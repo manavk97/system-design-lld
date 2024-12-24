@@ -57,6 +57,6 @@ By following these steps, you can create a comprehensive low-level design that s
 | Item    | Link                          |
 |---------|-------------------------------|
 | Snack and Ladder| [Solution](snack-and-ladder/solution.md) |
-|  |  |
+| Movie Ticket Booking Application| [Solution](movie-ticket-booking-application/solution.md) |
 
 
