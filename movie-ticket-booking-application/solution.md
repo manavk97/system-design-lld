@@ -225,10 +225,29 @@ Assume all Users are registered, authenticated, and logged in to the Application
 
 ## Define Methods
 
+- **addTheatre(Theatre theatre)**: Add a theatre.
+- **getTheatre(String theatreId)**: Get a theatre.
 
+- **addMovie(Movie movie)**: Add a movie to the theatre.
+- **getMovie(String movieId)**: Get a movie from the theatre.
 
+- **addScreen(Screen screen)**: Add a screen to the theatre.
+- **getScreen(String screenId)**: Get a screen from the theatre.
 
+- **addShow(Show show)**: Add a show to the theatre.
+- **getShow(String showId)**: Get a show from the theatre.
 
+- **createBooking(Booking booking)**: Create a booking for the user.
+- **getBooking(String bookingId)**: Get a booking from the theatre.
+
+- **addPayment(Payment payment)**: Add a payment to the theatre.
+- **getPayment(String paymentId)**: Get a payment from the theatre.
+
+- **addUser(User user)**: Add a user to the theatre.
+- **getUser(String userId)**: Get a user from the theatre.
+
+- **addSeat(Seat seat)**: Add a seat to the theatre.
+- **getAvailableSeats(String showId)**: Get the available seats for the show.
 
 ## Data Structures
 Using list data structure, we can store the following:
